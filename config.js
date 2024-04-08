@@ -9,10 +9,10 @@ global.antitags = true;
 
 
 //auto functioner
-global.autoTyping = false;                //auto tying by default off.
+global.autoTyping = true;                //auto tying by default off.
 global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //This is the new variable for controlling status seen.
+global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
 
 
@@ -25,8 +25,8 @@ global.Owner = ["+94789281290", "+94756294146"];         //If you want singal nu
 global.OwnerNumber = ["+94756294146", "+94789281290"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.ownertag = ["+94789281290"];
 global.OwnerName = "Sahan-x";
-global.BotName = "DARK_Alvin";
-global.packname = "🦋 DARK_Alvin 🦋";                             //Do not change.
+global.BotName = "DARK_Sahan";
+global.packname = "🦋 DARK_Sahan 🦋";                             //Do not change.
 global.author = "Sahan";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GJSPOP9N0drCErPilB6p7s";
